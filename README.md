@@ -10,6 +10,8 @@ PC로 작업하는 동안 바탕화면 한쪽에서 캐릭터가 낚시를 하�
 
 ![문서 작업 중 바탕화면에서 실행한 Cozy Cast](images/hero_desktop.png)
 
+📄 **[졸업작품 보고서 (PDF, 38쪽)](docs/CozyCast_graduation_report.pdf)** — 시스템 구성, 보상 재현 검증 설계, 테스트 결과, 화면별 서비스 시나리오
+
 <!-- 시연 영상 링크 추가 예정: [▶ 시연 영상 보기](https://youtu.be/...) -->
 
 ---
